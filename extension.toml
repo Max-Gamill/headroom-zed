@@ -1,4 +1,3 @@
-[package]
 id = "headroom"
 name = "Headroom"
 description = "Context compression for AI agents. Compress everything your agent reads — same answers, fraction of the tokens."
