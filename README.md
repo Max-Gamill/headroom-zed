@@ -60,6 +60,25 @@ Compression uses Headroom's full pipeline: SmartCrusher for JSON, CodeCompressor
 - Python 3.10+
 - `headroom` command in PATH
 
+## Install as dev extension
+
+If the headroom extension is not available in the Zed, follow the below steps to get it up and running.
+
+### Prerequisites
+
+- [Rust Installation](https://rust-lang.org/learn/get-started/)
+
+### Steps
+
+1. Install headroom
+
+  ```bash
+  pip install "headroom-ai[mcp]"
+  ```
+
+2. Clone this reposiory.
+3. In Zed: **Extensions** → **Install Dev Extension** → select repository
+
 ## License
 
 Apache License 2.0
