@@ -66,7 +66,7 @@ If the headroom extension is not available in the Zed, follow the below steps to
 
 ### Prerequisites
 
-- [Rust Installation](https://rust-lang.org/learn/get-started/)
+- [Rust Installation](https://rust-lang.org/tools/install/)
 
 ### Steps
 
